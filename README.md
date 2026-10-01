@@ -69,7 +69,7 @@ Key monitoring vectors include:
 
 > 🌟 Data observability has a thriving open-source ecosystem. Frameworks like **Great Expectations**, **Soda Core**, and **Elementary** provide production-grade monitoring, validation, and alerting without vendor lock-in.
 
-*Sorted by GitHub Stars_Count (descending):*
+*Sorted by GitHub_Stars_Count (descending):*
 
 - 🌀 **[Apache Airflow](https://github.com/apache/airflow)** [![](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
   *Industry-standard workflow orchestration platform featuring native data pipeline monitoring, task SLA tracking, OpenLineage integration, and failure alerting.*
