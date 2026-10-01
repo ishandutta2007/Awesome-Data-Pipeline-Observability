@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Data-Pipeline-Observability/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Pipeline-Observability?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Pipeline-Observability/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Pipeline-Observability?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Pipeline-Observability/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Pipeline-Observability?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Pipeline-Observability/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Data-Pipeline-Observability?style=flat-square" alt="GitHub Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Pipeline-Observability/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
@@ -69,7 +69,7 @@ Key monitoring vectors include:
 
 > 🌟 Data observability has a thriving open-source ecosystem. Frameworks like **Great Expectations**, **Soda Core**, and **Elementary** provide production-grade monitoring, validation, and alerting without vendor lock-in.
 
-*Sorted by GitHub Star Count (descending):*
+*Sorted by GitHub Stars_Count (descending):*
 
 - 🌀 **[Apache Airflow](https://github.com/apache/airflow)** [![](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)  
   *Industry-standard workflow orchestration platform featuring native data pipeline monitoring, task SLA tracking, OpenLineage integration, and failure alerting.*
@@ -122,7 +122,7 @@ Architecting an end-to-end open-source data pipeline observability stack:
 Contributions are warmly welcome! To submit a new SaaS product or open-source tool:
 
 1. Fork this repository.
-2. Add your entry to `README.md` adhering to the table format (for SaaS) or star badge format (for Open Source).
+2. Add your entry to `README.md` adhering to the table format (for SaaS) or Stars_Badge format (for Open Source).
 3. Ensure description remains objective, factual, and concise.
 4. Submit a Pull Request describing your addition.
 
